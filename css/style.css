@@ -71,7 +71,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: var(--cor02);
+    /* background-color: var(--cor02); */
+    background-color: red;
     color: var(--cor05);
     border-radius: 5px;
 }
